@@ -1,2 +1,0 @@
-# public
-React-Express-Mongo
